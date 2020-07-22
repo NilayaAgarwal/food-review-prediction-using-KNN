@@ -5,4 +5,4 @@ To find the best model which can accurately predict whether the review is positi
 
 Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
-performed EDA, word vectorization(BOW, avg Word2Vec,TFIDF,TFIDF Word2Vec), KNN(brute force,kd-tree)
+performed EDA, word vectorization(BOW, avg Word2Vec, TFIDF, TFIDF Word2Vec), KNN(brute force, kd-tree)
